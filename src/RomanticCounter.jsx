@@ -12,7 +12,7 @@ const RomanticCounter = () => {
   }, []);
 
   return (
-    <div className="relative min-h-screen md:min-h-[1500px] w-full overflow-hidden flex items-center justify-center bg-black text-white">
+    <div className="relative min-h-screen md:min-h-[800px] w-full overflow-hidden flex items-center justify-center bg-black text-white">
       {/* Background Video */}
       <video
         autoPlay
